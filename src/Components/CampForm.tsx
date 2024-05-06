@@ -2,6 +2,7 @@ import { Box, TextField } from "@mui/material";
 import { Information } from "../types";
 import { informationSelector } from "../store/selector";
 import { useMemo } from "react";
+import React from "react";
 
 interface IInfoCamp {
   errorMode: boolean;

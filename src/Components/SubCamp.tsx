@@ -15,6 +15,7 @@ import { Ads, SubCampaigns } from "../types";
 import { useEffect, useMemo, useState } from "react";
 import { ADD_SUB_CAMPAINS } from "../constant";
 import { generateUniqueId } from "../utils";
+import React from "react";
 
 type SubCampProps = {
   errorMode: boolean;

@@ -17,6 +17,7 @@ import TableRow from "@mui/material/TableRow";
 import { Ads, SubCampaigns } from "../types";
 import { useMemo } from "react";
 import { CHECKED } from "../constant";
+import React from "react";
 type AdsProps = {
   selectedSubCamp: SubCampaigns;
   errorMode: boolean;
