@@ -1,0 +1,7 @@
+export const CHANGE_INFO_NAME = "CHANGE_INFO_NAME"
+export const CHANGE_INFO_DESC = "CHANGE_INFO_DESC"
+
+export const ADD_SUB_CAMPAINS = "ADD_SUB_CAMPAINS"
+export const HANDLE_CHANGE_SUBCAMP = "HANDLE_CHANGE_SUBCAMP"
+
+export const CHECKED = true
